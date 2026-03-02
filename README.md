@@ -1,22 +1,25 @@
-# AWS Learning & Proof of Concepts 
+# AWS Cloud Practitioner (CLF-C02) - Progress Tracker
 
-This repository serves as a central hub for my journey through the **AWS Cloud Practitioner Essentials** course. Here, I document my progress, key learnings, and practical implementations.
+Following the **Ultimate AWS Certified Cloud Practitioner** course by Stéphane Maarek.
 
-## Goal
-To master AWS core services and understand how to architect scalable, cloud-native backend solutions.
-
-## Key Services Explored
-- **Compute:** EC2, AWS Lambda (Serverless)
-- **Storage:** Amazon S3
-- **Databases:** Amazon RDS (connecting with PostgreSQL/PostGIS logic)
-- **Networking:** VPC, CloudFront
-- **Security:** IAM (Identity and Access Management)
-
-## The "Cloud-Ready" Mindset
-Even when developing for On-Premise environments (like my current project for **APDL**), I apply AWS-inspired patterns to ensure my code is:
-- **Portable:** Using Laravel's filesystem abstraction (ready for S3 if needed).
-- **Decoupled:** Designing logic that could easily migrate to Serverless/Lambda.
-- **Secure:** Applying IAM-style "least privilege" principles to database and API access.
----
-
-*Currently finishing my Degree in Computer Engineering while working 30h/week at Fnac.*
+## Course Progress (23 Sections)
+- [ ] Section 1: Introduction to AWS
+- [ ] Section 2: AWS Cloud Fundamentals
+- [ ] Section 3: IAM: Identity & Access Management
+- [ ] Section 4: EC2 Fundamentals
+- [ ] Section 5: EC2 Solutions Architecture
+- [ ] Section 6: EC2 Instance Storage
+- [ ] Section 7: High Availability & Scalability (ELB & ASG)
+- [ ] Section 8: AWS Storage (S3)
+- [ ] Section 9: Databases & Analytics
+- [ ] Section 10: Other Compute Services (Lambda, ECS, etc.)
+- [ ] Section 11: Networking (VPC)
+- [ ] Section 12: Global Infrastructure
+- [ ] Section 13: Cloud Security & Compliance
+- [ ] Section 14: Machine Learning
+- [ ] Section 15: Account Management, Billing & Support
+- [ ] Section 16: Advanced Identity & Governance
+- [ ] Section 17: Other AWS Services
+- [ ] Section 18: White Papers & Architecting
+- [ ] Section 19: Preparing for the Exam
+- [ ] Section 20-23: Bonus & Practice Exams
