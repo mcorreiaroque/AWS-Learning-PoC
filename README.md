@@ -3,9 +3,9 @@
 Following the **Ultimate AWS Certified Cloud Practitioner** course by Stéphane Maarek.
 
 ## Course Progress (23 Sections)
-- [ ] Section 1: Introduction to AWS
-- [ ] Section 2: AWS Cloud Fundamentals
-- [ ] Section 3: IAM: Identity & Access Management
+- [X] Section 1: Introduction to AWS
+- [X] Section 2: AWS Cloud Fundamentals
+- [X] Section 3: IAM: Identity & Access Management
 - [ ] Section 4: EC2 Fundamentals
 - [ ] Section 5: EC2 Solutions Architecture
 - [ ] Section 6: EC2 Instance Storage
