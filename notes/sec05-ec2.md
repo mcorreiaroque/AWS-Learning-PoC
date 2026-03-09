@@ -1,4 +1,4 @@
-# Section 5: EC2 - Elastic Compute Cloud (Stephane Mareek)
+# Section 5: EC2 - Elastic Compute Cloud
 
 ## 1. EC2 Instance Fundamentals
 *   **Definition:** Virtual server in the AWS cloud.
